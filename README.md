@@ -16,31 +16,7 @@ Built an automated KPI dashboard over 3,000 client records and 25 attributes, wi
 - Looker Studio on BigQuery
 - Excel (data validation, summary tables)
 
-🔍 Key Tasks Performed
 
-Applied data validation and consistency checks
-
-Cleaned and standardized records
-
-Conducted exploratory data analysis
-
-Prepared quality metrics and summaries for reporting
-
-📈 Outcomes
-
-Increased overall data reliability
-
-Identified and documented quality issues
-
-Produced clean datasets suitable for reporting and analysis
-## 📂 Project Structure
-banking-analysis/
-├─ data/ # sample datasets
-├─ sql/ # SQL queries
-├─ notebooks/ # Jupyter notebooks
-├─ powerbi/ # Power BI report (.pbix) + screenshots
-├─ src/ # Python scripts
-└─ README.md
 Here are some snapshots from the Power BI dashboard and Looker Studio:
 
 <img width="1288" height="722" alt="Screenshot 2025-09-14 033450" src="https://github.com/user-attachments/assets/466880b3-6ef3-448d-b794-34acc986802d" />
