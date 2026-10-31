@@ -1,32 +1,20 @@
-📁 Data Quality & Risk Analysis
+# Banking KPI Dashboard
 
-Also referred to as: Banking Risk & Reporting Dashboard — a SQL/Power BI project analyzing financial transaction data for anomaly detection and KPI reporting.
+Also known as: Banking Risk & Reporting Dashboard. A SQL, Power BI and Looker Studio project that monitors 10+ banking KPIs, validates data quality and investigates KPI variances.
 
+## Overview
+Built an automated KPI dashboard over 3,000 client records and 25 attributes, with data validation checks to keep loan and deposit figures consistent across tools. Diagnosed KPI variances to surface 3 process inefficiencies and recommended process optimization steps. Automation reduced report turnaround by 35%. The dashboard was rebuilt in Looker Studio on BigQuery using a single SQL view joining 4 tables, and the results match Power BI.
 
-📌 Overview
+## Dataset
+- 3,000 client records, 25 attributes, 4 CSV files
+- Sample/synthetic data, not real banking data
 
-This project emphasizes assessing data quality and performing structured analysis where accuracy, completeness, and consistency are critical. The goal is to identify inconsistencies, apply validation checks, and prepare reliable datasets for analytical and reporting purposes.
-Banking Risk & Reporting Dashboard — SQL/Power BI project analyzing financial transaction data for anomaly detection and KPI reporting.
-
-The project reflects common data quality and risk-focused analytical workflows.
-
-📊 Dataset Scope
-
-Customer or transaction-style datasets
-
-Multiple numeric and categorical attributes
-
-High emphasis on accuracy and validation
-
-🛠 Tools & Technologies
-
-Python (Pandas, NumPy)
-
-SQL (MySQL / PostgreSQL)
-
-Excel (Data Validation, Summary Tables)
-
-Power BI (Quality Metrics Visualization)
+## Tools & Technologies
+- SQL (BigQuery view and validation queries)
+- Python (Pandas, NumPy)
+- Power BI (DAX, Power Query)
+- Looker Studio on BigQuery
+- Excel (data validation, summary tables)
 
 🔍 Key Tasks Performed
 
